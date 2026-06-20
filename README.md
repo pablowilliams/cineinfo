@@ -54,3 +54,9 @@ $ npm install
 
 # Inicie o servidor
 $ npm start
+
+## Notes & Local Extensions
+
+- Cloned to study the TMDb search/detail flow and the responsive React layout.
+- Next steps: add a "favorites" list persisted in localStorage and a loading skeleton for slow connections.
+- Credit: projeto original de [dayananogueira](https://github.com/dayananogueira/cineinfo).
